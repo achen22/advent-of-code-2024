@@ -1,3 +1,3 @@
-# Advent of Code 2023
+# Advent of Code 2024
 
-A repository for my solutions to the [Advent of Code 2023](https://adventofcode.com/2023) problems.
+A repository for my solutions to the [Advent of Code 2024](https://adventofcode.com/2024) problems.
